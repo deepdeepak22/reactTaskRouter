@@ -1,0 +1,72 @@
+.logo-image {
+  display: inline-block;
+}
+.navbar {
+  margin-left: 400px;
+  position: absolute;
+  top: 30px;
+}
+.course {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.liveclass {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.practice {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.resource {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.products {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.container-nav-img {
+  width: 1200px;
+  margin-top: 50px;
+  height: 220px;
+  border: 1px solid rgb(85, 79, 79);
+}
+.below-nav-img {
+  width: 1200px;
+}
+.navbar-2 {
+  text-align: center;
+}
+.all {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.full-stack-development {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.data-science {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.cyber-security {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.career {
+  margin-left: 25px;
+  text-decoration: none;
+}
+.content-container{
+  width: 390px;
+  
+}
+.content-poster{
+  width: 370px;
+}
+.content-mapping{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
